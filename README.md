@@ -10,3 +10,7 @@ The Test.py is the main file for simulation setup
 
 The Beam, TRANSP and GetFiber files contain classes for building the simulation
 
+The FiberArrayPlot and FiberArrayPlotCXBE are for Analisis and ploting of the simulation results.
+
+the Data folder contains the imputs and outputs and temporary files.
+There is one simulation output as an example. 
